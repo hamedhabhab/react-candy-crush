@@ -3,7 +3,7 @@
 ## Available Scripts
 
 In the project directory, you can run:
-### `Install dependencies using 'npm install`
+### `Install dependencies using 'npm install'`
 
 ### `npm start`
 
